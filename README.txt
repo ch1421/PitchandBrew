@@ -1,1 +1,0 @@
-PITCH&BREW DOWNLOAD WEBSITE\n\nPut your final Android APK in this same folder and rename it app.apk.\nAll DOWNLOAD buttons will then download the APK.\n
